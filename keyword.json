@@ -1,6 +1,64 @@
 {
+  "BigoZ_Ammunation": [
+    "bigoz_ammunation"
+  ],
+  "BigoZ_Arena1v1": [
+    "bigoz_arena1v1"
+  ],
+  "BigoZ_Arena2v2": [
+    "bigoz_arena2v2"
+  ],
+  "BigoZ_BallasGunShop": [
+    "bigoz_ballasgunshop"
+  ],
+  "BigoZ_CarCrew": [
+    "bigoz_carcrew"
+  ],
+  "BigoZ_DigitalDen": [
+    "bigoz_digitalden"
+  ],
+  "BigoZ_GunShop": [
+    "bigoz_gunshop"
+  ],
+  "BigoZ_HiddenHouse": [
+    "bigoz_hiddenhouse"
+  ],
+  "BigoZ_LifeGuardHuts": [
+    "bigoz_lifeguard"
+  ],
+  "BigoZ_Mechanic": [
+    "bigoz_mechanic"
+  ],
+  "BigoZ_WeedDepot": [
+    "bigoz_weeddepot"
+  ],
+  "BigoZ_WeedLab": [
+    "bigoz_weedlab"
+  ],
   "BigoZ_WeedShop": [
     "bigoz_weedshop"
+  ],
+  "BigoZ_BayShore": [
+    "bigoz_bayshore"
+  ],
+  "BigoZ_BikeShop": [
+    "bigoz_bikeshop"
+  ],
+  "BigoZ_HighNotes": [
+    "bigoz_rooftop"
+  ],
+  "BigoZ_Jewelry": [
+    "bigoz_jewel"
+  ],
+  "BigoZ_Stores": [
+    "bigoz_stores",
+    "bigoz_store"
+  ],
+  "BigoZ_Tattoo": [
+    "bigoz_tattoo"
+  ],
+  "BigoZ_TrainingMap": [
+    "bigoz_trainingmap"
   ],
   "cfx-bigoz-hospital": [
     "bigoz_main",
