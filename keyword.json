@@ -1,8 +1,14 @@
-[
-  "bigoz_weedshop",
-  "bigoz_main",
-  "bigoz_garage",
-  "bigoz_helipad",
-  "bigoz_hospital",
-  "bigoz_binco"
-]
+{
+  "BigoZ_WeedShop": [
+    "bigoz_weedshop"
+  ],
+  "cfx-bigoz-hospital": [
+    "bigoz_main",
+    "bigoz_garage",
+    "bigoz_helipad",
+    "bigoz_hospital"
+  ],
+  "cfx-bigoz-binco": [
+    "bigoz_binco"
+  ]
+}
