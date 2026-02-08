@@ -68,6 +68,11 @@
   "cfx-bigoz-binco": [
     "bigoz_binco"
   ],
+  "cfx-bigoz-ballasclub": [
+    "bigoz_ballasclub",
+    "bigoz_ballabar"
+
+  ],
   "cfx-bigoz-nextride": [
     "bigoz_nextride"
   ]
